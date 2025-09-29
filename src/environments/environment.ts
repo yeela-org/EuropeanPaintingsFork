@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   baseUrl: 'https://collectionapi.metmuseum.org/public/collection/v1/',
-  departmentApi: 'departments/'
+  departmentApi: '/'
 };
 
 /*
